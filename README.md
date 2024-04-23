@@ -50,3 +50,6 @@ This guide would not be possible without other great tutorials that I used as re
     - In this tutorial, you can find instructions on running the detector in a live video and also obtaining metrics for your trained model performance. If you want more details about the training process, I recommend reading his Medium article.
 4. [**Build an Object Detector for Any Game Using YOLO** - Moises de Paulo Dias](https://www.youtube.com/watch?v=RSXgyDf2ALo&t=1161s)
     - This tutorial will help you detect objects and obtain their coordinates and class in Python, opening up possibilities for automation in gaming, using libraries like pynput to control your mouse or keyboard based on the detections.
+  
+# GenGuard
+
